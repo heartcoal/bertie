@@ -1,0 +1,1 @@
+record git command and learning erlang program
